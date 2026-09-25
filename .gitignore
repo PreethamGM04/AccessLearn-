@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+
+uploads/
+images/
+rendered_pages/
+
+*.mp3
+*.wav
+
+node_modules/
+dist/
+
+.DS_Store
