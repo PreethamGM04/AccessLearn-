@@ -3,7 +3,8 @@ uvicorn[standard]>=0.29.0
 python-multipart>=0.0.9
 pymupdf>=1.24.0
 pydantic>=2.7.0
-anthropic
-python-dotenv
+transformers
+sentencepiece
+torch
 gTTS
 Pillow
